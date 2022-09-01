@@ -1,0 +1,4 @@
+/home/saikat/GEANT4_application/build/CMakeFiles/rebuild_cache.dir
+/home/saikat/GEANT4_application/build/CMakeFiles/edit_cache.dir
+/home/saikat/GEANT4_application/build/CMakeFiles/sim.dir
+/home/saikat/GEANT4_application/build/CMakeFiles/Simulation.dir
